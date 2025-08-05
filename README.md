@@ -1,4 +1,4 @@
-#⚠️ For educational purposes only. Do not use on unauthorized systems.
+⚠️For educational purposes only. Do not use on unauthorized systems.
 
 
 
